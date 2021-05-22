@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="connectWifi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/connectWifi_jar</output-path>
+    <root id="archive" name="connectWifi.jar">
+      <element id="module-output" name="connectWifi" />
+    </root>
+  </artifact>
+</component>
